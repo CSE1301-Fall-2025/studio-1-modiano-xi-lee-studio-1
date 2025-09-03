@@ -18,6 +18,10 @@ public class HiOne {
 		// if the value of name is "Pat"
 		//
 
+		if (name.equals("Ben")) {
+			System.out.println("Hi Ben!");
+		}
+
 	}
 
 }
