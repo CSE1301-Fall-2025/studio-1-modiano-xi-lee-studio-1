@@ -22,6 +22,7 @@ public class LeapYear {
         System.out.println(temp+(leap?" is":" is not")+" a leap year");
 
 
+
 	}
 
 }
